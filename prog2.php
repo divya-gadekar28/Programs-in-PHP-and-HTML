@@ -26,7 +26,7 @@ $area=2*pi*$r*($r+$h);
 echo"area of cylinder:".$area;
 }
 function volume($r,$h){
-#vol=pi*$r*$r*$h;
+$vol=pi*$r*$r*$h;
 echo "volume of cylinder:".$vol;
 }
 }
