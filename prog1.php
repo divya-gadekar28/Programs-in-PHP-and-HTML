@@ -1,3 +1,10 @@
+/*. Write a menu driven program to perform the following operations on associative arrays:
+a)	Merge the given arrays.
+b)	Find the intersection of two arrays.
+c)	Find the union of two arrays.
+d)	Find set difference of two arrays.
+*/
+
 <html>
 <body>
 <form method="post" action="<?php echo $_SERVER['PHP_SELF']?>">
